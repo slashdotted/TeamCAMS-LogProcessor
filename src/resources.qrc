@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>images/icona.png</file>
+        <file>images/denied.png</file>
+        <file>images/ReloadInv.png</file>
+        <file>images/Reload.png</file>
+        <file>images/Upload.png</file>
+        <file>images/Download.png</file>
+        <file>images/Plus.png</file>
+        <file>images/Triangle.png</file>
+        <file>images/Star.png</file>
+        <file>images/Resize.png</file>
+        <file>images/Home.png</file>
+        <file>images/Gear.png</file>
+        <file>images/File.png</file>
+        <file>images/Entrance.png</file>
+        <file>images/Duplicate.png</file>
+        <file>images/Cursor.png</file>
+        <file>images/Bolt.png</file>
+    </qresource>
+</RCC>

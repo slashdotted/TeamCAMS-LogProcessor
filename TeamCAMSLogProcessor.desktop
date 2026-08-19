@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=TeamCAMSLogProcessor
+Comment=TeamCAMS Log Processor
+Exec=TeamCAMSLogProcessor
+Icon=TeamCAMSLogProcessor
+Categories=Utility;
+Terminal=false
