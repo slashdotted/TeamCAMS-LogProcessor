@@ -84,7 +84,7 @@ The Log Processor provides a simple interface for selecting, processing, and ext
 
 ## Research Background
 
-TeamCAMS (Team Cabin Air Management System) is a research platform developed to investigate human behavior in complex socio-technical environments, including teamwork, automation, adaptive automation, and human-AI interaction. The Log Processor was developed to support efficient post-experimental data analysis and to facilitate large-scale research studies based on TeamCAMS-generated data. 【1-41f9cf】
+TeamCAMS (Team Cabin Air Management System) is a research platform developed to investigate human behavior in complex socio-technical environments, including teamwork, automation, adaptive automation, and human-AI interaction. The Log Processor was developed to support efficient post-experimental data analysis and to facilitate large-scale research studies based on TeamCAMS-generated data.
 
 The current TeamCAMS platform has been developed since 2015 by **Amos Brocco** as part of a collaboration between:
 
