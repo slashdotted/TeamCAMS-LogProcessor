@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 3.5)
 
 project(
   TeamCAMSLogProcessor
-  VERSION 2026.8
+  VERSION 2026.9
   LANGUAGES C CXX)
 
 set(CMAKE_AUTOUIC ON)

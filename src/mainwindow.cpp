@@ -285,7 +285,7 @@ void MainWindow::about()
     QMessageBox *msgBox = new QMessageBox(this);
     msgBox->setIcon(QMessageBox::NoIcon);
     msgBox->setWindowTitle(tr("About TeamCAMS"));
-    msgBox->setText(tr("<h3>TeamCAMS Log Processor 2026.08</h3>"
+    msgBox->setText(tr("<h3>TeamCAMS Log Processor 2026.9</h3>"
 
                        "<p>"
                        "Copyright &copy; 2015-2026 "
